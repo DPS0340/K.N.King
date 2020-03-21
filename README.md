@@ -3,7 +3,7 @@
 
 ## My Environment Settings
 
-OS: Windows 10 Pro 2004(Insider Preview)
+OS: Windows 10 Pro 64bit 2004(Insider Preview)
 
 Compiler: GCC 9.2.0 (MinGW)
 
